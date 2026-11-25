@@ -46,9 +46,9 @@ An end-to-end accounting, statutory compliance, and MIS reporting project built 
 AI tools (Gemini, ChatGPT, Claude) were used as a technical assistant during this project to troubleshoot GST/TallyPrime exceptions, structure the MIS report layout, and refine documentation. All voucher entries, ledger reconciliations, GSTR-3B adjustments, and final financial figures were executed and verified manually in TallyPrime and Excel.
 
 ## Repository Contents
-* `01_TallyPrime_Exports/` — `BSheet.pdf`, `PandL.pdf`, `TrialBal.pdf`, `DayBook.pdf`
-* `02_GST_Report/` — `GSTR-3B.pdf`
-* `03_Excel_MIS_Reports/` — Excel MIS workbook and expense/margin analysis
+* `TallyPrime_Exports/` — `BSheet.pdf`, `PandL.pdf`, `TrialBal.pdf`, `DayBook.pdf`
+* `GST_Report/` — `GSTR-3B.pdf`
+* `Excel_MIS_Reports/` — Excel MIS workbook and expense/margin analysis
 
 ## Author
 **Tharun S** — Data Analyst | Finance & Accounting Associate  
