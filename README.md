@@ -2,6 +2,9 @@
 
 An end-to-end accounting, statutory compliance, and MIS reporting project built in **TallyPrime** and **Microsoft Excel** for a wholesale business (**A 2 Z Stores**, FY 2026–27: 1 Apr 2026 – 31 Mar 2027). The project covers voucher entry, financial statement finalization, GSTR-3B Input Tax Credit (ITC) reconciliation, TDS & receivables auditing, and profitability analysis.
 
+<img width="1316" height="772" alt="image" src="https://github.com/user-attachments/assets/d39314a7-592c-4abe-8eeb-a873cb228acd" />
+
+
 ## Tools Used
 * **TallyPrime:** Item-wise & accounting vouchers, Trial Balance, Balance Sheet, Profit & Loss A/c, GSTR-3B, TDS, Bill-wise Ageing
 * **Microsoft Excel:** MIS reporting, gross margin analysis, expense breakdown, overdue receivables tracking
